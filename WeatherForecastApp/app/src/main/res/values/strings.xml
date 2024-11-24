@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherForecastApp</string>
+    <string name="weather_icon" />
+    <string name="location_format">%s, %s</string>
+    <string name="temperature_format">Temp: %s°C</string>
+    <string name="condition_format">Condition: %s</string>
+    <string name="location_not_found">Unable to fetch location.</string>
+    <string name="location_error">Error fetching location.</string>
+    <string name="permission_denied">Location permission denied.</string>
+</resources>
